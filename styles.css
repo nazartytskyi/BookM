@@ -1,0 +1,44 @@
+*{
+	padding:0;
+	margin:0; 
+}
+
+.main {
+	margin-top: 7%;
+	text-align: right;
+	margin-right: 10%;
+	padding-right: 10%;
+}
+
+body {
+	
+	color: yellow;
+	background-color: black;
+	font-size: 60px;
+	font-weight: bold;
+}
+
+
+
+.all-inputs {
+	margin-top: 30px;
+	margin-bottom: -30px;
+	font-size: 45px;
+	color: yellow;
+	background-color: black;
+	border: 2px solid red;
+	padding:10px;
+	margin-left: 5%;
+	padding-left: 29px;
+}
+
+.all-labels {
+	margin-left: 2%;
+
+}
+
+.res {
+	margin-left: 15%;
+	text-align: left;
+}
+
